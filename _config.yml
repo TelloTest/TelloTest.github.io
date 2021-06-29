@@ -11,9 +11,9 @@ title                    : "Tello-Vision Games"
 title_separator          : "-"
 name                     : &name "Tello-"
 description              : &description "Game Developer and student of computer science at CSUF"
-url                      : https://TelloVisionGames.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://TelloTest.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TelloVisionGames/TelloVisionGames.github.io"
+repository               : "TelloTest/TelloTest.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
